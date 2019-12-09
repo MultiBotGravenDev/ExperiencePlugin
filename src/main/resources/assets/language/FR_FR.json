@@ -1,0 +1,7 @@
+{
+  "command": {
+    "rank": {
+      "description": "Permet de voir son niveau et son expérience."
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "main": "fr.gravendev.ExperiencePlugin",
+  "depends": ["database_plugin"]
+}
